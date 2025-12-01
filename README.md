@@ -74,9 +74,9 @@ Node.js + MongoDB high-throughput event polling and indexing system.
 ---
 
 ## 🌐 Connect With Me
-- ✉️ Email: *your-email@example.com*  
-- 💼 LinkedIn: *https://linkedin.com/in/yourprofile*  
-- 🖥️ Portfolio: *yourwebsite.com*
+- ✉️ Email: *pujankp4@gmail.com*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/pujankumarpuri/?skipRedirect=true*  
+
 
 ---
 
